@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "FXaI+fUSVMHvhFCHvzL3cZi/ZAPp3e+bgIBa+yKbq3Y2Lcl/HaZsLAkkRehvToUVHQxRSdNjuGRtoS3OJVyCBQ==",
+  "dgSpecHash": "mt/m4zfzD2N7ZgliwiDDboQUARgTWf4C6u9rAyuagkL1GWNDCG3050pvsgKV6TKuiDLmMslQe5YrjnVl0ezOTA==",
   "success": true,
   "projectFilePath": "D:\\development_former_htdocs\\muziekboekregistratie\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ramon\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.1\\microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.1\\microsoft.entityframeworkcore.sqlite.6.0.1.nupkg.sha512",
     "C:\\Users\\ramon\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.1\\microsoft.entityframeworkcore.sqlite.core.6.0.1.nupkg.sha512",

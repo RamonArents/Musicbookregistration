@@ -1,8 +1,15 @@
-namespace Persistence
+using Domain;
+using Microsoft.EntityFrameworkCore;
 
+namespace Persistence
 {
-    public class DataContext
+    public class DataContext : DbContext
     {
-        
+        public DataContext(DbContextOptions options) : base(options)
+        {
+
+        }
+
+        public DbSet<Musicbook> Musicbooks {get; set;}
     }
 }

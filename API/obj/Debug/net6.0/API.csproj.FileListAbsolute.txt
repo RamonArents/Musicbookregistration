@@ -55,3 +55,5 @@ D:\development_former_htdocs\muziekboekregistratie\API\obj\Debug\net6.0\API.dll
 D:\development_former_htdocs\muziekboekregistratie\API\obj\Debug\net6.0\ref\API.dll
 D:\development_former_htdocs\muziekboekregistratie\API\obj\Debug\net6.0\API.pdb
 D:\development_former_htdocs\muziekboekregistratie\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\development_former_htdocs\muziekboekregistratie\API\bin\Debug\net6.0\Humanizer.dll
+D:\development_former_htdocs\muziekboekregistratie\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
