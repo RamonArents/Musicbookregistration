@@ -1,0 +1,15 @@
+D:\development_former_htdocs\muziekboekregistratie\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\development_former_htdocs\muziekboekregistratie\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\development_former_htdocs\muziekboekregistratie\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+D:\development_former_htdocs\muziekboekregistratie\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\development_former_htdocs\muziekboekregistratie\Persistence\bin\Debug\net5.0\Domain.dll
+D:\development_former_htdocs\muziekboekregistratie\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+D:\development_former_htdocs\muziekboekregistratie\Persistence\obj\Debug\net5.0\Persistence.pdb

@@ -1,0 +1,12 @@
+D:\development_former_htdocs\muziekboekregistratie\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\development_former_htdocs\muziekboekregistratie\Domain\bin\Debug\net6.0\Domain.dll
+D:\development_former_htdocs\muziekboekregistratie\Domain\bin\Debug\net6.0\ref\Domain.dll
+D:\development_former_htdocs\muziekboekregistratie\Domain\bin\Debug\net6.0\Domain.pdb
+D:\development_former_htdocs\muziekboekregistratie\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\development_former_htdocs\muziekboekregistratie\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\development_former_htdocs\muziekboekregistratie\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\development_former_htdocs\muziekboekregistratie\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\development_former_htdocs\muziekboekregistratie\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\development_former_htdocs\muziekboekregistratie\Domain\obj\Debug\net6.0\Domain.dll
+D:\development_former_htdocs\muziekboekregistratie\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\development_former_htdocs\muziekboekregistratie\Domain\obj\Debug\net6.0\Domain.pdb

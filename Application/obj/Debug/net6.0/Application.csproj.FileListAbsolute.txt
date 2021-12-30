@@ -1,0 +1,17 @@
+D:\development_former_htdocs\muziekboekregistratie\Application\bin\Debug\net6.0\Application.deps.json
+D:\development_former_htdocs\muziekboekregistratie\Application\bin\Debug\net6.0\Application.dll
+D:\development_former_htdocs\muziekboekregistratie\Application\bin\Debug\net6.0\ref\Application.dll
+D:\development_former_htdocs\muziekboekregistratie\Application\bin\Debug\net6.0\Application.pdb
+D:\development_former_htdocs\muziekboekregistratie\Application\bin\Debug\net6.0\Domain.dll
+D:\development_former_htdocs\muziekboekregistratie\Application\bin\Debug\net6.0\Persistence.dll
+D:\development_former_htdocs\muziekboekregistratie\Application\bin\Debug\net6.0\Persistence.pdb
+D:\development_former_htdocs\muziekboekregistratie\Application\bin\Debug\net6.0\Domain.pdb
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\Application.dll
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\ref\Application.dll
+D:\development_former_htdocs\muziekboekregistratie\Application\obj\Debug\net6.0\Application.pdb
